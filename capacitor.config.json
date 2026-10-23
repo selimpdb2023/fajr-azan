@@ -1,0 +1,6 @@
+{
+  "appId": "com.fajr.azan",
+  "appName": "ফজরের আযান",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
